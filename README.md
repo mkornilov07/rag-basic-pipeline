@@ -1,1 +1,1 @@
-# rag-basic-pipeline
+# Basic RAG Pipeline
